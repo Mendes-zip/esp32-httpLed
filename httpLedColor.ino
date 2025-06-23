@@ -34,8 +34,8 @@ const char* htmlPage = R"rawliteral(
 
 
 
-const char* ssid="KAUA_2G";
-const char* password="kaua0321";
+const char* ssid="wifi-ssid";
+const char* password="password";
 const int redPin = 23;
 const int bluePin = 18;
 const int greenPin = 19;
